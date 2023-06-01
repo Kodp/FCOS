@@ -1,0 +1,10 @@
+VOCtrainval_06-Nov-2007.tar
+voc07_val.json
+voc07_train.json
+.idea/
+FCOS Fully Convolutional One-Stage Object Detection.pdf
+
+toolset/__pycache__/
+
+mAP/.git/
+mAP/.gitignore
